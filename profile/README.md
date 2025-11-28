@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=ZenBNB+Logo" alt="ZenBNB Logo" width="120" height="120">
+  <img src="https://www.hebergeur-image.fr/uploads/20251128/43b8fb3c09eee997c56cc373094800bc36868d23.png" alt="ZenBNB Logo" width="120" height="120">
   <h1>ZenBNB Engineering</h1>
   <p><strong>La plateforme de référence pour le ménage des locations courte durée.</strong></p>
   
-  <a href="https://zenbnb.com">Site Web</a> • 
+  <a href="https://zenbnb.fr">Site Web</a> • 
   <a href="#-architecture--repositories">Repositories</a> • 
   <a href="#-notre-stack-technique">Tech Stack</a> • 
   <a href="#-léquipe">L'Équipe</a>
@@ -76,9 +76,9 @@ La Core Team technique et produit derrière la V1 de ZenBNB.
 ### 💻 Engineering Team
 | Rôle | Nom | Github | Focus Principal |
 | :--- | :--- | :--- | :--- |
-| **Lead Developer** | **Adam** | [@ton-pseudo](https://github.com/) | Architecture Backend, Base de données, DevOps, Sécurité. |
-| **Frontend Developer** | **[Nom Collègue 1]** | [@pseudo](https://github.com/) | UI/UX, Intégration Next.js, Animations, Responsive. |
-| **Fullstack Developer** | **[Nom Collègue 2]** | [@pseudo](https://github.com/) | Logique métier, API, Intégration des flux (Paiement/Chat). |
+| **Lead Developer** | **Adam** | [@AzmogEx](https://github.com/AzmogEx) | Architecture Backend, Base de données, DevOps, Sécurité. |
+| **Frontend Developer** | **Victoire** | [@Vic2511](https://github.com/Vic2511) | UI/UX, Intégration Next.js, Animations, Responsive. |
+| **Fullstack Developer** | **Victor** | [@vic-mtf](https://github.com/vic-mtf) | Logique métier, API, Intégration des flux (Paiement/Chat). |
 
 ---
 
@@ -117,8 +117,8 @@ Aucun code ne va sur `main` sans :
 
 En cas de problème critique (Prod down, faille de sécurité) :
 
-* **Urgence Technique :** Adam (Slack / Tel)
-* **Urgence Produit :** M. Lazare
+* **Urgence Technique :** Adam (Discord / Tel / WhatsApp)
+* **Urgence Produit :** M. Lazare (WhatsApp)
 
 ---
 
